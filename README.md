@@ -1,2 +1,13 @@
 # CG_Lab_2
-Repository for the laboratory work №2 on subject "Computer Graphics"
+## Repository for the laboratory work №2 on subject "Computer Graphics"
+## How it works?
+### 1) Execute main2.exe file
+![alt tag](https://a.radikal.ru/a26/2103/18/b85d93c40460.png "Execute main2.exe file")​
+### 2) Choose folder and print its name (This folder must be in the same path as exe-file)
+![alt tag](https://c.radikal.ru/c01/2103/ad/e60ccb10a117.png "Choose folder and print its name (This folder must be in the same path as exe-file)")​
+### 3) The program will print all information about files in the chosen folder
+![alt tag](https://a.radikal.ru/a41/2103/12/5701dbab4345.png "The program will print all information about files in the chosen folder")​
+### 4) In conclusion enter any key to close the console application
+![alt tag](https://c.radikal.ru/c14/2103/fc/bf8655906f11.png "In conclusion enter any key to close the console application")​
+### *) In case when there is no folder with chosen name, programm will print about that
+![alt tag](https://b.radikal.ru/b09/2103/1d/148339bef508.png "In case when there is no folder with chosen name, programm will print about that")​
