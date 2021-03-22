@@ -1,6 +1,6 @@
 # CG_Lab_2
 ## Repository for the laboratory work №2 on subject "Computer Graphics"
-## How it works?
+# How it works?
 ### 1) Execute main2.exe file
 ![alt tag](https://a.radikal.ru/a26/2103/18/b85d93c40460.png "Execute main2.exe file")​
 ### 2) Choose folder and print its name (This folder must be in the same path as exe-file)
